@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&&color=0:8BE8FDFF,100:a82da8&height=100&section=header&&fontSize=90"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&&color=0:8BE8FDFF,100:E63935&height=100&section=header&&fontSize=90"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Goldman&size=35&pause=1000&color=8BE8FDFF&center=true&vCenter=true&width=1000&lines=Welcome,+my+name+is+Daniela;)](https://git.io/typing-svg)
 
@@ -31,6 +31,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=danielasegadilha&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&&color=0:8BE8FDFF,100:a82da8&height=100&section=footer&&fontSize=90"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&&color=0:8BE8FDFF,100:E63935&height=100&section=footer&&fontSize=90"/>
 
 -->
