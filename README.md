@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&&color=0:8BE8FDFF,100:E63935&height=100&section=header&&fontSize=90"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Goldman&size=35&pause=1000&color=8BE8FDFF&center=true&vCenter=true&width=1000&lines=Welcome,+my+name+is+Daniela;)](https://git.io/typing-svg)
 
@@ -21,16 +20,7 @@
     <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    </div>
 
-<p align="center">
-  <br><br>
-  <h6 align="center">Github trophys</h1>
-  <img src="https://github-profile-trophy.vercel.app/?username=danielasegadilha&theme=tokyonight&row=1&no-bg=true&column=4&margin-w=15&margin-h=15" />
-</p>
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=danielasegadilha&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&&color=0:8BE8FDFF,100:E63935&height=100&section=footer&&fontSize=90"/>
-
--->
